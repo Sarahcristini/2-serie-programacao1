@@ -8,5 +8,7 @@
     width: 150px;
 }
 header {
-    background-image: linear-gradient(r);
-}
+   background-color: #0a1451;
+   color: azure;
+   display: flex;
+} 
